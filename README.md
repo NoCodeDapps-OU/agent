@@ -70,6 +70,51 @@ NoCodeDapps is an agentic system that empowers anyone to build, audit, and deplo
 
 ## Support
 
+How to Deploy This Agent Using the YAML File
+
+1. Choose Your Platform
+This YAML file is designed for agentic platforms that support YAML-based agent definitions, such as Toolhouse.
+Make sure you have an account on the platform.
+
+2. Access the Agent Deployment Section
+Log in to your platform (e.g., Toolhouse).
+Navigate to the section for creating or importing a new agent/bot/assistant.
+
+3. Upload or Paste the YAML File
+You will typically see an option to:
+Upload a YAML file (choose your saved file), or
+Paste the YAML content directly into a text area or editor.
+
+4. Review and Confirm
+The platform will parse the YAML and show you a preview of the agent’s configuration.
+Review the details to ensure everything looks correct (title, system prompt, onboarding, etc.).
+Make any edits if needed.
+
+5. Deploy/Activate the Agent
+Click the “Deploy,” “Create,” or “Activate” button.
+The agent will now be live and ready to use according to the workflow and instructions in your YAML file.
+
+6. Share or Use the Agent
+You’ll receive a link or interface to interact with your agent.
+You can share this link with others or embed the agent in your app, website, or workflow.
+
+Example: Deploying on Toolhouse
+Go to Toolhouse and log in.
+Click “Create Agent” or “Import Agent.”
+Paste your YAML file into the provided editor, or upload it.
+Click “Save” or “Deploy.”
+Your agent is now live! You can interact with it, share it, or integrate it as needed.
+
+What Happens Next?
+The agent will follow the onboarding and workflow you defined in the YAML.
+Users can interact with it via chat, web, or API (depending on the platform).
+All code, links, and files will be delivered as specified in your YAML.
+
+If you want to enable GitHub repo delivery or ZIP file hosting, your backend or the platform must support these features (OAuth for GitHub, file storage for ZIPs).
+For advanced integrations (e.g., custom payment verification), you may need to connect additional services or APIs.
+
+## Questions
+
 For questions, premium support, or repo transfer, contact the NoCodeDapps team or use the managed option in the agent
 
 **Build on Bitcoin. No code required.**
